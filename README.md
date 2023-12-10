@@ -7,7 +7,7 @@ SpaCAE contrasts transcriptomic signals of each spot and its spatial neighbors t
 
 The latent representation and reconstructed expression can be applied to downstream analyses, including identifying spatial domains by Mclust algorithms, denoising the SRT profiles with reconstructed expression and visualization. 
 ## Requirements
-Hardware resources used in this project<br>
+Hardware resources used in this project.<br>
 + GPU NVIDIA GeForce RTX 3060<br>
 + CUDA Version 11.7<br><br>
 
