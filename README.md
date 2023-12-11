@@ -26,5 +26,12 @@ You'll need to install the following packages in order to run the codes.<br>
 + rpy2==3.5.10<br>
 
 ## Tutorial
-The `demo.py` file demonstrates the process of spatial domain identification for the 151675 slice in DLPFC dataset.
+For the step-by-step tutorial, please refer to: 
+<br>
+https://github.com/HYF01/SpaCAE/blob/main/SpaCAE/tutorial.md
+<br>
+A Jupyter Notebook of the tutorial is accessible from : 
+<br>
+https://github.com/HYF01/SpaCAE/blob/main/SpaCAE/tutorial.ipynb
+<br>
 
