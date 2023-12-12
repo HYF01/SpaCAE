@@ -1,7 +1,6 @@
 Spatially contrastive variational autoencoder for deciphering tissue heterogeneity from spatially resolved transcriptomics
 ======
 ## Overview
-![Image text](https://github.com/HYF01/SpaCAE/blob/main/overview.png)
 SpaCAE (SPAtially Contrastive variational AutoEncoder) is a spatially contrastive variational autoencoder framework designed for spatial domains identification and highly sparse SRT data denoising.
 
 SpaCAE contrasts transcriptomic signals of each spot and its spatial neighbors to achieve fine-grained tissue structures detection. By employing a graph embedding variational autoencoder and incorporating a deep contrastive strategy, SpaCAE achieves a balance between spatial local information and global information of expression, enabling effective learning of representations with spatial constraints. Particularly, SpaCAE provides a graph deconvolutional decoder to address the smoothing effect of local spatial structure on expression’s self-supervised learning, an aspect often overlooked by current graph neural networks. 
